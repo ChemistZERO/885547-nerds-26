@@ -1,7 +1,7 @@
 ﻿# Личный проект «Нёрдс»
 
 * Студент: [Aleksey Dmitrevich](https://up.htmlacademy.ru/htmlcss/26/user/885547).
-* Наставник: [Алексей Гуков](https://htmlacademy.ru/profile/id277789).
+* Наставник: [Алексей Гуков](https://htmlacademy.ru/profile/id277789)
 ---
 
 _Не удаляйте и не обращайте внимание на файлы:_<br>
